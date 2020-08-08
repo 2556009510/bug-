@@ -561,6 +561,6 @@ public interface EmpDao {
 
 ![img](https://img-blog.csdnimg.cn/20200806133951554.png)![点击并拖拽以移动](data:image/gif;base64,R0lGODlhAQABAPABAP///wAAACH5BAEKAAAALAAAAAABAAEAAAICRAEAOw==)
 
-### resultMap返回值映射:
+### resultMap返回值映射:（下一章最后一节讲）
 
 当进行关联查询的时候，在返回结果的对象中还包含另一个对象的引用时，此时需要自定义结果集合，才使用resultMap 
